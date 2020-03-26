@@ -1,4 +1,3 @@
 branches:
   only:
-  - gh-pages
-  - /.*/
+  -test1
